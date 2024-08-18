@@ -234,6 +234,6 @@ function main() {
   window.setInterval(draw,16.67);
 }
 
-window.addEventListener('load', (e) => {
+window.addEventListener('load', () => {
   main();
 })
