@@ -4,5 +4,7 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 
 [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) 
 
+This game was created using the [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) and [Vite](https://vitejs.dev/)
+
 ## Preview
 <img width="813" alt="image" src="https://github.com/user-attachments/assets/0d1b7a78-083e-4479-aea7-97a4b967ca34">
